@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "AuthorName": "Shubham Gohad",
+      "AuthorDetails": "I am a Full Stack Developer and I am a Lead Developer of the Open Source Open Source Open Source Project and I am a Lead Developer of the Open Source Open Source",
+      "BlogName": "Rokstar",
+      "BlogDetails": "The emergence and growth of blogs in the late 1990s coincided with the advent of web publishing tools that facilitated the posting of content by non-technical users who did not have much experience with HTML or computer programming.",
+      "Image": "https://cdn.pixabay.com/photo/2015/03/22/15/26/blog-684748_1280.jpg"
+    },
+
+    {
+        "id": 2,
+        "AuthorName": "Raj Jadhav",
+        "AuthorDetails": "I am a Figma designer and I am the author of the blog post on the blog post website",
+        "BlogName": "Business",
+        "BlogDetails": "Many blogs provide commentary on a particular subject or topic, ranging from philosophy, religion, and arts to science, politics, and sports. Others function as more personal online diaries or online brand advertising of a particular individual or company. ",
+        "Image": "https://cdn.pixabay.com/photo/2015/07/28/21/58/student-865073_1280.jpg"
+      },
+      {
+        "id": 3,
+        "AuthorName": "Ganesh Chavan",
+        "AuthorDetails": "I am a Project Coordinator for the University of Texas at Austin and the University of Texas at Austin",
+        "BlogName":"Animal History",
+        "BlogDetails": "T'Blog' and 'blogging' are now loosely used for content creation and sharing on social media, especially when the content is long-form and one creates and shares content on regular basis. So, one could be maintaining a blog on Facebook or blogging on Instagram.",
+        "Image": "https://media.istockphoto.com/id/1436628451/photo/tyrannosaurus-and-velociraptor-walking-through-the-forest.jpg?s=1024x1024&w=is&k=20&c=PxzAL9Ll604hlXpEc1v29Q4DEiUSW0qtzDCNqpOcOrU="
+      },
+      {
+        "id": 4,
+        "AuthorName": "Emily Smith",
+        "AuthorDetails": "I am a Food Blogger and a Culinary Enthusiast. Exploring the world of flavors one recipe at a time.",
+        "BlogName": "TastyBites",
+        "BlogDetails": "TastyBites is your one-stop destination for mouthwatering recipes, cooking tips, and culinary adventures from around the globe.",
+        "Image": "https://media.istockphoto.com/id/1457675377/photo/woman-owner-on-live-streaming-at-flower-shop.jpg?s=1024x1024&w=is&k=20&c=55htvjXu8WlKYBR6Dh3a46YiupnIEo-zCyAZzJJaUtI="
+      },
+      {
+        "id": 5,
+        "AuthorName": "Alex Johnson",
+        "AuthorDetails": "I'm a Travel Enthusiast and Outdoor Adventurer. Sharing my travel experiences and outdoor escapades.",
+        "BlogName": "Wanderlust Chronicles",
+        "BlogDetails": "Join me on a journey to discover breathtaking landscapes, hidden gems, and thrilling experiences in the world of travel and adventure.",
+        "Image": "https://cdn.pixabay.com/photo/2017/07/31/04/11/tomato-2556426_1280.jpg"
+      },
+      {
+        "id": 6,
+        "AuthorName": "Sophia Lee",
+        "AuthorDetails": "I'm a Health and Wellness Coach, passionate about helping others achieve a balanced and healthy life.",
+        "BlogName": "Wellness Wisdom",
+        "BlogDetails": "Explore a world of well-being, fitness, and mindfulness. Let's embark on a journey to live a healthier and happier life.",
+        "Image": "https://cdn.pixabay.com/photo/2017/07/12/19/32/waterfall-2498069_1280.jpg"
+      },
+      {
+        "id": 7,
+        "AuthorName": "Shubham Gohad",
+        "AuthorDetails": "I am a Full Stack Developer and I am a Lead Developer of the Open Source Open Source Open Source Project and I am a Lead Developer of the Open Source Open Source",
+        "BlogName": "Rokstar",
+        "BlogDetails": "The emergence and growth of blogs in the late 1990s coincided with the advent of web publishing tools that facilitated the posting of content by non-technical users who did not have much experience with HTML or computer programming.",
+        "Image": "https://cdn.pixabay.com/photo/2015/03/22/15/26/blog-684748_1280.jpg"
+      },
+  
+      {
+          "id": 8,
+          "AuthorName": "Raj Jadhav",
+          "AuthorDetails": "I am a Figma designer and I am the author of the blog post on the blog post website",
+          "BlogName": "Business",
+          "BlogDetails": "Many blogs provide commentary on a particular subject or topic, ranging from philosophy, religion, and arts to science, politics, and sports. Others function as more personal online diaries or online brand advertising of a particular individual or company. ",
+          "Image": "https://cdn.pixabay.com/photo/2015/07/28/21/58/student-865073_1280.jpg"
+        },
+        {
+          "id": 9,
+          "AuthorName": "Ganesh Chavan",
+          "AuthorDetails": "I am a Project Coordinator for the University of Texas at Austin and the University of Texas at Austin",
+          "BlogName":"Animal History",
+          "BlogDetails": "T'Blog' and 'blogging' are now loosely used for content creation and sharing on social media, especially when the content is long-form and one creates and shares content on regular basis. So, one could be maintaining a blog on Facebook or blogging on Instagram.",
+          "Image": "https://media.istockphoto.com/id/1436628451/photo/tyrannosaurus-and-velociraptor-walking-through-the-forest.jpg?s=1024x1024&w=is&k=20&c=PxzAL9Ll604hlXpEc1v29Q4DEiUSW0qtzDCNqpOcOrU="
+        },
+        {
+          "id": 10,
+          "AuthorName": "Emily Smith",
+          "AuthorDetails": "I am a Food Blogger and a Culinary Enthusiast. Exploring the world of flavors one recipe at a time.",
+          "BlogName": "TastyBites",
+          "BlogDetails": "TastyBites is your one-stop destination for mouthwatering recipes, cooking tips, and culinary adventures from around the globe.",
+          "Image": "https://media.istockphoto.com/id/1457675377/photo/woman-owner-on-live-streaming-at-flower-shop.jpg?s=1024x1024&w=is&k=20&c=55htvjXu8WlKYBR6Dh3a46YiupnIEo-zCyAZzJJaUtI="
+        },
+        {
+          "id": 11,
+          "AuthorName": "Alex Johnson",
+          "AuthorDetails": "I'm a Travel Enthusiast and Outdoor Adventurer. Sharing my travel experiences and outdoor escapades.",
+          "BlogName": "Wanderlust Chronicles",
+          "BlogDetails": "Join me on a journey to discover breathtaking landscapes, hidden gems, and thrilling experiences in the world of travel and adventure.",
+          "Image": "https://cdn.pixabay.com/photo/2017/07/31/04/11/tomato-2556426_1280.jpg"
+        },
+        {
+          "id": 12,
+          "AuthorName": "Sophia Lee",
+          "AuthorDetails": "I'm a Health and Wellness Coach, passionate about helping others achieve a balanced and healthy life.",
+          "BlogName": "Wellness Wisdom",
+          "BlogDetails": "Explore a world of well-being, fitness, and mindfulness. Let's embark on a journey to live a healthier and happier life.",
+          "Image": "https://cdn.pixabay.com/photo/2017/07/12/19/32/waterfall-2498069_1280.jpg"
+        }
+      
+]

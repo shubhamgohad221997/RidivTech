@@ -1,0 +1,43 @@
+.box1 {
+  width: 90%;
+  margin: auto;
+}
+
+.box2 {
+  margin: 10px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.Image {
+  width: 500px;
+  height: 300px;
+  margin: auto;
+}
+
+.Button1 {
+  margin-top: 20px;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.button:hover {
+  text-decoration: underline;
+}
+
+.BlogName {
+  font-size: 24px;
+  margin: 0;
+  color: blue;
+}
+
+.blogDetails {
+  font-size: 20px;
+  margin-top: 20px;
+  color: green;
+}
